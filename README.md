@@ -16,7 +16,7 @@ Steps done in the projects:
   4. Observing and analysing core parameters
   5. Handling data outliers
   6. Observing and analysing core parameters without data outliers
-  7. Analysing correlation between core parameters
+  7. Analysing correlations between core parameters
  
 Conclusions to the analysis are:
   1. Odometer and price correlate negatively with coeffecient of correlation around 0.5
