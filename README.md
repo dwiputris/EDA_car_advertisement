@@ -5,8 +5,8 @@ The purpose of the analysis is to determine what factors correlate with a car's 
 
 Exploratory Data Analysis (EDA) is the approach used to conclude of how parametes correlate with each other.
 
-The original dataset consists of 13 columns and 51,525 rows. Several missing values are detected. 
-No explicit duplicates are found.
+The dataset comprises of 51,525 observations and 13 characteristics. Several missing values are found. 
+No explicit duplicate is found.
 And several data have mismatch type.
 
 Steps done in the projects:
