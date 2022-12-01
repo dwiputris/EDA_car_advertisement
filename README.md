@@ -3,7 +3,7 @@ In this project, a dataset of car advertisements in a web is analysed.
 
 The purpose of the analysis is to determine what factors correlate with a car's price.
 
-Exploratory Data Analysis (EDA) is the approach used to conclude of how parametes correlate with each other.
+Exploratory Data Analysis (EDA) is the approach used to observe patterns and draw conclusions on how parameters correlate with each other.
 
 The dataset comprises of 51,525 observations and 13 characteristics. Several missing values are found. 
 No explicit duplicate is found.
@@ -18,9 +18,9 @@ Steps done in the projects:
   6. Observing and analysing core parameters without data outliers
   7. Analysing correlations between core parameters
  
-Conclusions to the analysis are:
-  1. Odometer and price correlate negatively with coeffecient of correlation around 0.5
-  2. Age and price correlate negatively with coeffecient of correlation around 0.6
+Conclusions:
+  1. Odometer and price moderately correlate, with coeffecient of correlation around 0.5.
+  2. Age and price moderately correlate, with coeffecient of correlation around 0.6.
   3. Condition and price correlate weakly.
-  4. Transmision automatic is sold more expensively for type Sedan. And manual for SUV.
-  5. Orange color cars are sold more expensively in average than any other color. While green ones are the lowest price.
+  4. Automatic transmision cars are sold more expensively for type Sedan. And manual for SUV.
+  5. Orange color cars are sold more expensively in average than any other color. While green ones have the lowest price.
