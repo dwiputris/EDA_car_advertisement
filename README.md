@@ -23,4 +23,4 @@ Conclusions:
   2. Age and price moderately correlate, with coeffecient of correlation around 0.6.
   3. Condition and price correlate weakly.
   4. Automatic transmision cars are sold more expensively for type Sedan. And manual for SUV.
-  5. Orange color cars are sold more expensively in average than any other color. While green ones have the lowest price.
+  5. Orange colored cars are sold more expensively in average than any other color. While green ones are sold at the lowest price.
